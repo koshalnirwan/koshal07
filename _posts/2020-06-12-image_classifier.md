@@ -1,11 +1,10 @@
----
+```
 title: "Image Classifier"
 date: 2020-06-12
 tags: [deep learning, data science, classification] 
 excerpt: The project is based on Convolutional Neural Networks (CNN). It classifies
 the images of Cats and Dogs"
-
----
+```
 
 [github code](https://github.com/koshalnirwan/ImageClassifier)
 
