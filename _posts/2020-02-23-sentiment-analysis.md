@@ -4,7 +4,7 @@ date: 2020-02-23
 tags: [nlp, analysis, data science, visualization] 
 excerpt: It is a web app project based on Natural Language Processsing (NLP). The idea is to fetch tweets based on a keyword, clean the tweets and classify them in different Setiment categories like as positive, negative, strongly positive, neutral etc.
 ---
-*[github code](https://github.com/koshalnirwan/tweets-analysis)*
+*[Github code](https://github.com/koshalnirwan/tweets-analysis)*
 
 *[Tweets Analysis App](https://tweets--analysis.herokuapp.com/)*
 
