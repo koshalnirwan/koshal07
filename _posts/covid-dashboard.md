@@ -3,7 +3,7 @@ title: "Covid-19 Dashboard"
 date: 2020-08-20
 tags: [data analytics, data science, data visualization] 
 header:
-  "Get me"
+  "'Torture Data and it will confess everything'"
 excerpt: "It is a Dashboard that visualizes and helps to analyze the covid situation in India. Trends for virus affected cases 
 are traced right from its first case on 30th January, 2020 till date. Data is updated daily and the trends are 
 visualized accordingly"
