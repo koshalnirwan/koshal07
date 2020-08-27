@@ -3,7 +3,7 @@ title: "Covid-19 Dashboard"
 date: 2018-01-28
 tags: [data analytics, data science, data visualization]
 header: 
-  excerpt: "Data Analytics, Data Science, Data Visualization"
+  excerpt: "First Data Sciene Project"
 mathjax: "true"
 ---
 
