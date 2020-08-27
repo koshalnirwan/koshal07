@@ -1,9 +1,10 @@
 ---
-title: "First Project"
+title: "Covid-19 Dashboard"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [data analytics, data science, data visualization]
 header:
-  excerpt: "Data Wrangling, Data Science, Messy Data"
+  "This is what you get"  
+excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
