@@ -1,9 +1,10 @@
 ---
 layout: posts
 permalink: /data-wrangling/
-title: 
+title: "Data"
 author_profile: true
 header:
+  "Recently Added"
 ---
 
 
