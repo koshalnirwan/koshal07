@@ -9,7 +9,6 @@ visualized accordingly"
 mathjax: "true"
 ---
 
-# Covid dashboard
 [Covid Dashboard for India App](https://covid--dashboard-india.herokuapp.com/)
 
 [github code](https://github.com/koshalnirwan/covid_dashboard)
