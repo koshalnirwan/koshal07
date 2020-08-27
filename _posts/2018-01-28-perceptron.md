@@ -2,15 +2,16 @@
 title: "Covid-19 Dashboard"
 date: 2018-01-28
 tags: [data analytics, data science, data visualization]
-header:
-  "This is what you get"  
-excerpt: "Data Wrangling, Data Science, Messy Data"
+header: 
+  excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
 # H1 Heading
 
 [link](https://jekyllthemes.io/theme/phantom)
+
+this ius not an lokkinh for itb  vaan bbe much betere
 
 ## H2 Heading
 
