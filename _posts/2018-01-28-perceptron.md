@@ -3,7 +3,7 @@ title: "Covid-19 Dashboard"
 date: 2018-01-28
 tags: [data analytics, data science, data visualization]
 header: 
-  excerpt: "Data Wrangling, Data Science, Messy Data"
+  excerpt: "Data Analytics, Data Science, Data Visualization"
 mathjax: "true"
 ---
 
@@ -11,7 +11,7 @@ mathjax: "true"
 
 [link](https://jekyllthemes.io/theme/phantom)
 
-this ius not an lokkinh for itb  vaan bbe much betere
+this ius not an lokkinh for itb  vaan bbe much beterecgdxgcxgxg
 
 ## H2 Heading
 
