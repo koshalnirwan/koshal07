@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /data-wrangling/
-title: "Project"
+title: 
 author_profile: true
 header:
 ---
