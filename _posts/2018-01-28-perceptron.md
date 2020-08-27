@@ -10,6 +10,7 @@ mathjax: "true"
 ---
 
 [Covid Dashboard for India App](https://covid--dashboard-india.herokuapp.com/)
+
 [github code](https://github.com/koshalnirwan/covid_dashboard)
 
 It is a Dashboard that visualizes and helps to analyze the covid situation in India. Trends for virus affected cases 
