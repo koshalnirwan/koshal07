@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Koshal Singh"
+title                    : "Data Science Portfolio"
 title_separator          : "-"
 name                     : "Koshal Singh"
 description              : "Data Science Portfolio"
