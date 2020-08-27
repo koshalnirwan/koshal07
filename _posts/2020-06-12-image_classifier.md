@@ -5,7 +5,7 @@ tags: [deep learning, data science, classification]
 excerpt: The project is based on Convolutional Neural Networks (CNN) technique in Deep Learning. Model is trained to classify the images of Cats and Dogs
 ---
 
-[github code](https://github.com/koshalnirwan/ImageClassifier)
+*[github code](https://github.com/koshalnirwan/ImageClassifier)*
 
 The project is based on **Convolutional Neural Networks (CNN)**. It classifies
 the images of Cats and Dogs.
