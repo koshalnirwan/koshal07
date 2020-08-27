@@ -3,64 +3,41 @@ title: "Covid-19 Dashboard"
 date: 2018-01-28
 tags: [data analytics, data science, data visualization]
 header: 
-excerpt: "First Data Sciene Project"
+excerpt: "It is a Dashboard that visualizes and helps to analyze the covid situation in India. Trends for virus affected cases 
+are traced right from its first case on 30th July, 2020 till date. Data is updated daily and the trends are 
+visualized accordingly"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Covid dashboard
+[Covid Dashboard for India App](https://covid--dashboard-india.herokuapp.com/)
 
-[link](https://jekyllthemes.io/theme/phantom)
+[github code]
 
-this ius not an lokkinh for itb  vaan bbe much beterecgdxgcxgxg
+It is a Dashboard that visualizes and helps to analyze the covid situation in India. Trends for virus affected cases 
+are traced right from its first case on 30th July, 2020 till date. Data is updated daily and the trends are 
+visualized accordingly. Data can be analysed and visualized statewise also. 
 
-## H2 Heading
+### Dashboard trace down -
+1. Total Cases
+2. Recovered Cases
+3. Deaths 
+4. Active Cases
+5. Total Tests
 
-### H3 Heading
+Data is fetched as a json file using an api from official Indian Goverment Health Department website. Data is fetched, 
+cleaned and prepared for the visualization. This is the only time consuming part in whole project.
 
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
+```
+resp = requests.get('https://api.covid19india.org/v4/timeseries.json')
+df = pd.DataFrame(resp.json())
 ```
 
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
+### Stacked bar chart showing covid timeline 
+<img src="images/bar.JPG" width=500 height=300>
 
-Here's some inline code `x+y`.
+### Confirmed cases chart for selected States
+<img src="images/confirm.JPG" width=500 height=300>
 
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+### Total Tests graph for selected States
+<img src="images/test.JPG" width=500 height=300>
