@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "First Project"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
@@ -8,6 +8,8 @@ mathjax: "true"
 ---
 
 # H1 Heading
+
+[link](https://jekyllthemes.io/theme/phantom)
 
 ## H2 Heading
 
