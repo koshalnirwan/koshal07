@@ -2,7 +2,7 @@
 title: "Diabetes Prediction App"
 date: 2020-03-11
 tags: [machine learning, data science, regression] 
-excerpt: A Machine Learning based project deployed on Heroku and developed with Python and streamlit library. Supervised Machine Learning Classification problem, solved using **Ensemble Learning** technique. Algorithms used here are **Logistic Regresssion** and **Random Forest Classification** 
+excerpt: A Machine Learning based project deployed on Heroku and developed with Python and streamlit library. Supervised Machine Learning Classification problem, solved using Ensemble Learning technique. Algorithms used here are Logistic Regresssion and Random Forest Classification.
 mathjax: "true"
 ---
 *[Github code](https://github.com/koshalnirwan/diabetes--prediction)*
