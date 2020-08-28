@@ -5,7 +5,7 @@ tags: [deep learning, data science, classification]
 excerpt: The project is based on Convolutional Neural Networks (CNN) technique in Deep Learning. Model is trained to classify the images of Cats and Dogs
 ---
 
-*[github code](https://github.com/koshalnirwan/ImageClassifier)*
+*[Github code](https://github.com/koshalnirwan/ImageClassifier)*
 
 The project is based on **Convolutional Neural Networks (CNN)**. It classifies
 the images of Cats and Dogs.
@@ -25,21 +25,21 @@ Preprocessing is done as not all the images are of same shape and size. This is 
 
 Cat                                            |  Dog
 :---------------------------------------------:|:-------------------------:
-<img src="Screenshots/cat_org.JPG" width=300>  |  <img src="Screenshots/dog_org.JPG" width=300>
+<img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/cat_org.JPG" width=500 height=300>  |  <img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/dog_org.JPG" width=500 height=300>
    
 ### 2. Convert images into gray scale. 
 This is because we are only concerned with patterns in images and not the color. This is also a memory efficient step as colored images occupy more space than Grey scale images
 
 Cat (Gray Scale)                               |  Dog (Gray Scale)
 :---------------------------------------------:|:-------------------------:
-<img src="Screenshots/cat_bw.JPG" width=300>   |  <img src="Screenshots/dog_bw.JPG" width=300>
+<img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/cat_bw.JPG" width=500 height=300>   |  <img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/dog_bw.JPG" width=500 height=300>
 
 ### 3. Resize images 
 This is done so that all images are of same size and can be operated on smoothly
 
 Cat (Resized)                                  |  Dog (Resized)
 :---------------------------------------------:|:-------------------------:
-<img src="Screenshots/cat_re.JPG" width=300>   |  <img src="Screenshots/dog_re.JPG" width=300>
+<img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/cat_re.JPG" width=500 height=300> | <img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/dog_re.JPG" width=500 height=300>
 
 ### 4. Convert the image data into a numpy array to feed it to the model
 Machine Learning and Deep Learning models or machines only take numeric data as input so the image data is converted to **numpy array**. Now this numpy arrary contains the numbers between **0 - 255 (Gray Scale imges)** where 0 is the most black part and 255 being the most white part in image. 
@@ -58,6 +58,6 @@ To predict an image it should be first converted to grey scale and then resized 
 
 Predicted Image (Grey scale)                          |  Predicted Image (Resized) 
 :----------------------------------------------------:|:-------------------------:
-<img src="Screenshots/pred_not_blur.JPG" width=300>   |  <img src="Screenshots/pred_blr.JPG" width=300>
+<img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/pred_blr.JPG" width=500 height=300>  |  <img src="https://koshalnirwan.github.io/koshal07/images/cats_dogs/pred_not_blur.JPG" width=500 height=300>
 
 
