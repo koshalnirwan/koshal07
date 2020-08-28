@@ -41,5 +41,6 @@ Variable ***Price*** in data is target variable i.e we are going to predict the 
 
 ## Model Training and Working
 It is a supervised Machine Learning problem and is solved with Linear Regression. Model have an accuracy of more than 85%. The image is the interface of web app that is developed using trained model.
-<img src="https://koshalnirwan.github.io/koshal07/images/price/pred.JPG" width=500 height=300>
+
+<img src="https://koshalnirwan.github.io/koshal07/images/price/pred.JPG" width=500 height=500>
 
