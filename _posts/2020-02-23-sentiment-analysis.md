@@ -25,7 +25,7 @@ Most NLP techniques rely on machine learning to derive meaning from human langua
 
 Before Cleaning                                                           |  After Cleaning
 :------------------------------------------------------------------------:|:-------------------------:
-<img src="https://koshalnirwan.github.io/koshal07/images/tweets/dirty.JPG" width=500 height=300>   |  <img src="https://koshalnirwan.github.io/koshal07/images/tweets/cleaned.JPG" width=500 height=300>
+<img src="https://koshalnirwan.github.io/koshal07/images/tweets/dirty.JPG" width=500>   |  <img src="https://koshalnirwan.github.io/koshal07/images/tweets/cleaned.JPG" width=500>
 
 ***3. Polarity of each tweet is calculated***
 
