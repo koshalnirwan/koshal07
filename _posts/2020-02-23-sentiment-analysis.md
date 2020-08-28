@@ -25,7 +25,7 @@ Most NLP techniques rely on machine learning to derive meaning from human langua
 
 Before Cleaning                                                           |  After Cleaning
 :------------------------------------------------------------------------:|:-------------------------:
-[<img src="screenshots/dirty.JPG" width="500"/>](screenshots/dirty.JPG)   |  [<img src="screenshots/cleaned.JPG" width="500"/>](screenshots/cleaned.JPG)
+[<img src="tweets/dirty.JPG" width="500"/>](tweets/dirty.JPG)   |  [<img src="tweets/cleaned.JPG" width="500"/>](tweets/cleaned.JPG)
 
 ***3. Polarity of each tweet is calculated***
 
@@ -45,4 +45,4 @@ polarity  = -1.00 to -0.60 ----> Strong Negative
 
 ***4. The derived information is then plotted using a Pie chart***
 
-[<img src="screenshots/pie.JPG" width="500"/>](screenshots/pie.JPG)
+[<img src="tweets/pie.JPG" width="500"/>](tweets/pie.JPG)
