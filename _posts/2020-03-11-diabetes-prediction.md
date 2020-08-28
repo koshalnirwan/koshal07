@@ -16,7 +16,9 @@ An ensemble-based system is obtained by combining diverse models (mainly classif
 Same is the case with Machine Learning models. One model may fail learn some records and other models may find it easy to learn. So in many cases Ensemble Learning can be a better option.
 
 ### Logistic Regression
-Logistic Regression is a Classification problem based on Supervised Machine Learning. Logistic regression models the probabilities for classification problems with two possible outcomes. It's an extension of the linear regression model for classification problems. The problem for Linear Regression in classification is that it predicts a range of values or continuous values, like as price prediction. But in classification only binary values are used that is either cat or dog, either suffering from diabetes or not. For this, in Logistic Regression we apply a **sigmoid function.**   ```logistic(η) = 1 / 1+exp(−η)```
+Logistic Regression is a Classification problem based on Supervised Machine Learning. Logistic regression models the probabilities for classification problems with two possible outcomes. It's an extension of the linear regression model for classification problems. The problem for Linear Regression in classification is that it predicts a range of values or continuous values, like as price prediction. But in classification only binary values are used that is either cat or dog, either suffering from diabetes or not. For this, in Logistic Regression we apply a **sigmoid function.**   
+
+```logistic(η) = 1 / 1+exp(−η)```
 
 This sigmoid function converts all values from ```- infinity to infinity``` in range ```0 to 1```. Then a threshold values is applied and values are compressed to binary format.
 
@@ -25,6 +27,6 @@ Random forests is a supervised learning algorithm. It can be used both for class
 
 ## Prediction
 
-Not Diabetic                                   |  Diabetic
-:---------------------------------------------:|:-------------------------:
-<img src="app.JPG" width=300>  |  <img src="app2.JPG" width=300>
+Not Diabetic                                                                                    |  Diabetic
+:----------------------------------------------------------------------------------------------:|:-------------------------:
+<img src="https://koshalnirwan.github.io/koshal07/images/diabetes/app.JPG" width=500 height=300>  |  <img src="https://koshalnirwan.github.io/koshal07/images/diabetes/app2.JPG" width=500 height=300>
