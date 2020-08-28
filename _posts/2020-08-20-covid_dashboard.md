@@ -33,16 +33,12 @@ df = pd.DataFrame(resp.json())
 
 ### Stacked bar chart showing covid timeline 
 
-![](https://koshalnirwan.github.io/koshal07/images/covid/bar.JPG)
-
-### Stacked bar chart showing covid timeline 222222222
-
-<img src="https://koshalnirwan.github.io/koshal07/images/covid/bar.JPG" width="500" height="300" />
+<img src="https://koshalnirwan.github.io/koshal07/images/covid/bar.JPG" width=600 height=400>
 
 ### Confirmed cases chart for selected States
 
-<img src="https://koshalnirwan.github.io/koshal07/images/covid/confirm.JPG" width=500 height=300>
+<img src="https://koshalnirwan.github.io/koshal07/images/covid/confirm.JPG" width=600 height=400>
 
 ### Total Tests graph for selected States
 
-<img src="https://koshalnirwan.github.io/koshal07/images/covid/test.JPG" width=500 height=300>
+<img src="https://koshalnirwan.github.io/koshal07/images/covid/test.JPG" width=600 height=400>
