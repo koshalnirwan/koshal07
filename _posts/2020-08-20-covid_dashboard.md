@@ -32,10 +32,10 @@ df = pd.DataFrame(resp.json())
 ```
 
 ### Stacked bar chart showing covid timeline 
-<img src="images/covid/bar.JPG" width=500 height=300>
+<img src="covid/bar.JPG" width=500 height=300>
 
 ### Confirmed cases chart for selected States
-<img src="images/covid/confirm.JPG" width=500 height=300>
+<img src="covid/confirm.JPG" width=500 height=300>
 
 ### Total Tests graph for selected States
-<img src="images/covid/test.JPG" width=500 height=300>
+<img src="covid/test.JPG" width=500 height=300>
