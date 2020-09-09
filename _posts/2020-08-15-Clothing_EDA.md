@@ -5,7 +5,7 @@ tags: [data analytics, data science, data visualization, eda]
 excerpt: "Exploratory Data Analysis of Clothing Reviev dataset of Indian e-commerce site. Plotly is used as data visualization library."
 ---
 
-[Github](https://github.com/koshalnirwan/Clothing_EDA)
+[Github code](https://github.com/koshalnirwan/Clothing_EDA)
 
 ## Python Libraries Used
 1. Pandas (data analysis)
