@@ -9,7 +9,7 @@ mathjax: "true"
 
 *[Github code](https://github.com/koshalnirwan/IPL-Data-Analysis-Score-Prediction)*
 
-*[Covid Dashboard for India App](https://ipl--analysis.herokuapp.com/)*
+*[IPL Data Analysis and Score Prediction App](https://ipl--analysis.herokuapp.com/)*
 
 It is a web app where all the IPL stats from 2008 to 2017 are present in numeric form as well as in graphic form.
 A score predictor is also there that takes in some input and predicts the final score based on inputs. 
